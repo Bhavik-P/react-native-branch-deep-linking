@@ -66,6 +66,7 @@
     "eslint": "^2.7.0",
     "eslint-config-rackt": "^1.1.1",
     "mockery": "*",
+    "npmlog": "^4.1.2",
     "react": "16.0.0-alpha.6",
     "react-addons-create-fragment": "16.0.0-alpha.3",
     "react-addons-pure-render-mixin": "16.0.0-alpha.3",
